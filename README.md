@@ -13,7 +13,7 @@ Passkey Authentication is a method of verifying a person's identity based on the
 ## Passkey Blog
 - [What is Passkey](https://mojoauth.com/blog/what-is-passkey/)
 - [Passkeys: FIDO’s new mission to completely remove passwords](https://mojoauth.com/blog/passkeys-fido-new-mission-to-remove-passwords/)
-- [https://techcrunch.com/2022/09/12/apple-passkey/](https://techcrunch.com/2022/09/12/apple-passkey/)
+- [What is Apple Passkey, and how will it help you go passwordless?](https://techcrunch.com/2022/09/12/apple-passkey/)
 - [Introducing passkeys in Chrome](https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html)
 - [Passkey vs. password: What is the difference?](https://www.techtarget.com/whatis/feature/Passkey-vs-password-What-is-the-difference)
 
